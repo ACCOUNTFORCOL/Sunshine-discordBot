@@ -10,8 +10,8 @@ const client = new Client({
   ]
 })
 
-const token = "YOUR_BOT_TOKEN"
-const clientId = "YOUR_CLIENT_ID"
+const token = "BOT_TOKEN"
+const clientId = "CLIENT_ID"
 
 const autoroles = new Map()
 const blacklistedRoles = new Set()
